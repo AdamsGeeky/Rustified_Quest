@@ -1,7 +1,6 @@
 # Rustified_Quest
 
-# The Bitcoiner's Guide to Rust Programming  
-*Learn Rust the ~~Hard~~ Bitcoin Way*  
+# Learn Rust the ~~Hard~~ Bitcoin Way 
 
 ---
 
@@ -13,15 +12,15 @@ Following the [btcdemy.thinkific.com](http://btcdemy.thinkific.com) course
 
 ## Syllabus Tracker  
 
-### [x] **1.0: Project Overview**  
-### [x] **2.0: Setup**  
-### [ ] **3.0: Your First Function**  
-### [ ] **4.0: Hex and Bytes**  
-### [ ] **5.0: Vectors and Result Enum**  
-### [ ] **6.0: Pointers and Slices**  
-### [ ] **7.0: Arrays and Type Conversions**  
-### [ ] **8.0: Traits and Byte Reading**  
-### [ ] **9.0: Mutable and Shared References**  
+- [x] **1.0: Project Overview**  
+- [x] **2.0: Setup**  
+- [x] **3.0: Your First Function**  
+- [ ] **4.0: Hex and Bytes**  
+- [ ] **5.0: Vectors and Result Enum**  
+- [ ] **6.0: Pointers and Slices**  
+- [ ] **7.0: Arrays and Type Conversions**  
+- [ ] **8.0: Traits and Byte Reading**  
+- [ ] **9.0: Mutable and Shared References**  
   - [ ] 9.0.1: Mutable References  
   - [ ] 9.0.2: Shared References  
 ### [ ] **10.0: CompactSize Unsigned Integers**  
