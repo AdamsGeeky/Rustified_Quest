@@ -1,7 +1,6 @@
 [package]
-name = "fundamentals"
+name = "moduler-03"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-module_01 = { path = "./module-01" }

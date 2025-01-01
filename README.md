@@ -23,18 +23,19 @@ Following the [btcdemy.thinkific.com](http://btcdemy.thinkific.com) course
 - [ ] **9.0: Mutable and Shared References**  
   - [ ] 9.0.1: Mutable References  
   - [ ] 9.0.2: Shared References  
-### [ ] **10.0: CompactSize Unsigned Integers**  
-### [ ] **11.0: Unit Testing**  
-### [ ] **12.0: Input Reading and Type Coercion**  
-### [ ] **13.0: Structs**  
-### [ ] **14.0: JSON Serialization**  
-### [ ] **15.0: Outputs and Tuple Structs**  
-### [ ] **16.0: Custom Serialization and Generics**  
-### [ ] **17.0: File Organization**  
-### [ ] **18.0: Decoding Legacy Transactions**  
-### [ ] **19.0: Error Handling**  
-### [ ] **20.0: Command-Line Arguments**  
-### [ ] **21.0: Refactoring with Rust-Bitcoin**  
-### [ ] **22.0: Segwit Decoding**  
+- [ ] **10.0: CompactSize Unsigned Integers**  
+- [ ] **11.0: Unit Testing**  
+- [ ] **12.0: Input Reading and Type Coercion**  
+- [ ] **13.0: Structs**  
+- [ ] **14.0: JSON Serialization**  
+- [ ] **15.0: Outputs and Tuple Structs**  
+- [ ] **16.0: Custom Serialization and Generics**  
+
+- [ ] **17.0: File Organization**  
+- [ ] **18.0: Decoding Legacy Transactions**  
+- [ ] **19.0: Error Handling**  
+- [ ] **20.0: Command-Line Arguments**  
+- [ ] **21.0: Refactoring with Rust-Bitcoin**  
+- [ ] **22.0: Segwit Decoding**  
 
 ---

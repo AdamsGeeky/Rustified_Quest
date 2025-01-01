@@ -3,12 +3,5 @@
 version = 4
 
 [[package]]
-name = "fundamentals"
-version = "0.1.0"
-dependencies = [
- "module_01",
-]
-
-[[package]]
-name = "module_01"
+name = "include-01"
 version = "0.1.0"
