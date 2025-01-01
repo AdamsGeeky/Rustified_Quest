@@ -30,8 +30,7 @@ Following the [btcdemy.thinkific.com](http://btcdemy.thinkific.com) course
 - [ ] **14.0: JSON Serialization**  
 - [ ] **15.0: Outputs and Tuple Structs**  
 - [ ] **16.0: Custom Serialization and Generics**  
-
-- [ ] **17.0: File Organization**  
+- [x] [**17.0: File Organization**](./fundamentals/File-Organization/README.md)  
 - [ ] **18.0: Decoding Legacy Transactions**  
 - [ ] **19.0: Error Handling**  
 - [ ] **20.0: Command-Line Arguments**  
