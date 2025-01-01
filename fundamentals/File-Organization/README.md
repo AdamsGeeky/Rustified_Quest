@@ -112,3 +112,11 @@ Rust modules are private by default. You need to explicitly use the `pub` keywor
       println!("This is an example function.");
   }
 ```
+
+## Run 
+
+```bash
+cargo run --manifest-path=include-01/Cargo.toml
+cargo run --manifest-path=library-02/Cargo.toml
+cargo run --manifest-path=moduler-03/Cargo.toml
+```
