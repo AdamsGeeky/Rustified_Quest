@@ -15,7 +15,7 @@ Following the [btcdemy.thinkific.com](http://btcdemy.thinkific.com) course
 - [x] **1.0: Project Overview**  
 - [x] **2.0: Setup**  
 - [x] **3.0: Your First Function**  
-- [ ] **4.0: Hex and Bytes**  
+- [x] **4.0: Hex and Bytes**  
 - [ ] **5.0: Vectors and Result Enum**  
 - [ ] **6.0: Pointers and Slices**  
 - [ ] **7.0: Arrays and Type Conversions**  
